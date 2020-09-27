@@ -3,3 +3,4 @@ Now I am going to edit it.
 I used VIM for this.
 I to insert and then escape to exit insertion mode and x to save and quit.
 This is a line I added from branch "feature1" to add another merge.
+One more once.
