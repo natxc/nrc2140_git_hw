@@ -1,0 +1,4 @@
+Making a text file for this repo.
+Now I am going to edit it.
+I used VIM for this.
+I to insert and then escape to exit insertion mode and x to save and quit.
